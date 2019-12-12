@@ -1,7 +1,7 @@
 # Bayesian-Neural-network
 A small project for Bayesian Neural network(Pytorch implementation)
 
-slide: https://drive.google.com/open?id=1nxI06z1aHNJi0KMzXl7mh47KdSwqLxX9bHZmBvIab6E
+[slide](https://drive.google.com/open?id=1nxI06z1aHNJi0KMzXl7mh47KdSwqLxX9bHZmBvIab6E)
 
 ## Papers
 This implementation and code based on the paper: weight uncertainty of Neural network
