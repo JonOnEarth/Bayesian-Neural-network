@@ -27,3 +27,4 @@ This implementation and code based on the paper: weight uncertainty of Neural ne
 
 - https://github.com/anassinator/bnn
 
+- [torchbnn](https://github.com/Harry24k/bayesian-neural-network-pytorch) a lightweight repository of bayesian neural network for PyTorch.(But I have a doubt with his implementation)
