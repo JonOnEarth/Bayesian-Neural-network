@@ -7,7 +7,7 @@ A small project for Bayesian Neural network(Pytorch implementation)
 This implementation and code based on the paper: weight uncertainty of Neural network
 ## Codes and contents are heavily inspired by
 
-- https://github.com/cpark321/uncertainty-deep-learning
+- https://github.com/cpark321/uncertainty-deep-learning several methods for BNN
 
 - https://joshfeldman.net/ml/2018/12/17/WeightUncertainty.html
 
