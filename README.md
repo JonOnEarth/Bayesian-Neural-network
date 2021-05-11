@@ -3,6 +3,10 @@ A small project for Bayesian Neural network(Pytorch implementation)
 
 [slide](https://drive.google.com/open?id=1nxI06z1aHNJi0KMzXl7mh47KdSwqLxX9bHZmBvIab6E)
 
+## Partial BNN (update 5/10/2021)
+Instead of having all weight distribution, only part of the weights are distributed, for example, last few layers are weight distributed.
+Reference: [CSC 2516: Partial Bayesian Neural Networks](https://www.cyrusmaz.com/files/CSC_2516_Project.pdf)
+
 ## Papers
 - Mostly important: [weight uncertainty of Neural network]()
 - Survey: [Hands-on Bayesian Neural Networks -- a Tutorial for Deep Learning Users](https://arxiv.org/abs/2007.06823)
