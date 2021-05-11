@@ -4,7 +4,9 @@ A small project for Bayesian Neural network(Pytorch implementation)
 [slide](https://drive.google.com/open?id=1nxI06z1aHNJi0KMzXl7mh47KdSwqLxX9bHZmBvIab6E)
 
 ## Papers
-This implementation and code based on the paper: weight uncertainty of Neural network
+- Mostly important: [weight uncertainty of Neural network]()
+- Survey: [Hands-on Bayesian Neural Networks -- a Tutorial for Deep Learning Users](https://arxiv.org/abs/2007.06823)
+
 ## Codes and contents are heavily inspired by
 
 - https://github.com/cpark321/uncertainty-deep-learning several methods for BNN
@@ -28,4 +30,5 @@ This implementation and code based on the paper: weight uncertainty of Neural ne
 - https://github.com/anassinator/bnn
 
 - [torchbnn](https://github.com/Harry24k/bayesian-neural-network-pytorch) a lightweight repository of bayesian neural network for PyTorch.(But I have a doubt with his implementation)
+
 - https://github.com/magister-informatica-uach/INFO320 A class for BNN and VAE
