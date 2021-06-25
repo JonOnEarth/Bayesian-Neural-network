@@ -15,7 +15,7 @@ Reference: [CSC 2516: Partial Bayesian Neural Networks](https://www.cyrusmaz.com
 
 - https://github.com/cpark321/uncertainty-deep-learning several methods for BNN
 
-- https://joshfeldman.net/ml/2018/12/17/WeightUncertainty.html
+- https://joshfeldman.net/WeightUncertainty/
 
 - http://krasserm.github.io/2019/03/14/bayesian-neural-networks/
 
